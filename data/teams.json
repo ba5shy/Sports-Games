@@ -1,0 +1,79 @@
+[
+    {
+        "name": "Dallas Mavericks",
+        "abbv": "DAL",
+        "id": "18812",
+        "league id": "7422",
+        "sport id": "3"
+    },
+    {
+        "name": "New York Knicks",
+        "abbv": "NYK",
+        "id": "18803",
+        "league id": "7422",
+        "sport id": "3"
+    },
+    {
+        "name": "Los Angeles Lakers",
+        "abbv": "LAL",
+        "id": "18806",
+        "league id": "7422",
+        "sport id": "3"
+    },
+    {
+        "name": "Denver Nuggets",
+        "abbv": "DEN",
+        "id": "18807",
+        "league id": "7422,
+        "sport id": "3"
+    },
+    {
+        "name": "Philadelphia 76ers",
+        "abbv": "PHI",
+        "id": "18795",
+        "league id": "7422",
+        "sport id": "3"
+    },
+    {
+        "name": "Al Ittihad",
+        "abbv": "ITI",
+        "id": "3422",
+        "league id": "232",
+        "sport id": "1"
+    },
+    {
+        "name": "Al Hilal",
+        "abbv": "HIL",
+        "id": "3410",
+        "league id": "232",
+        "sport id": "1"
+    },
+    {
+        "name": "Al Nasr",
+        "abbv": "NAS",
+        "id": "3411",
+        "league id": "232",
+        "sport id": "1"
+    },
+    {
+        "name": "FC Bayern Munchen",
+        "abbv": "FCB",
+        "id": "142",
+        "league id": "512",
+        "sport id": "1"
+    },
+    {
+        "name": "Arsenal",
+        "abbv": "ARS",
+        "id": "7",
+        "league id": "317",
+        "sport id": "1"
+    },
+    {
+        "name": "Manchester City",
+        "abbv": "MCI",
+        "id": "4817",
+        "league id": "317",
+        "sport id": "1"
+    }
+]
