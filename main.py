@@ -1,0 +1,2 @@
+import text
+text.main()
